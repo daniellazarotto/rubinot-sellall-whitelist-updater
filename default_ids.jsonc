@@ -1,0 +1,648 @@
+{
+  "protected_items": [
+    44157, // Albino Dragon Leather
+    3077, // Ankh
+    5883, // Ape Fur
+    3348, // Banana Staff
+    5894, // Bat Wing
+    5896, // Bear Paw
+    5930, // Behemoth Claw
+    5912, // Blue Piece of Cloth
+    5898, // Bonelord Eye
+    44179, // Bottled Dragon Breath
+    37604, // Brass Button
+    40533, // Broken Iks Cuirass
+    40531, // Broken Iks Faulds
+    40532, // Broken Iks Headpiece
+    40534, // Broken Iks Sandals
+    5913, // Brown Piece of Cloth
+    6099, // Brutus Bloodbeard's Hat
+    5890, // Chicken Feather
+    25089, // Colourful Feathers
+    43899, // Cursed Wood
+    43900, // Darklight Geode
+    6102, // Deadeye Devious' Eye Patch
+    37605, // Decorative Plume
+    50060, // Demon Claws
+    5906, // Demon Dust
+    6499, // Demonic Essence
+    5919, // Dragon Claw
+    20275, // Dream Warden Claw
+    20276, // Dream Warden Mask
+    12552, // Dubious Piece of Cloth
+    12803, // Elemental Spikes
+    5891, // Enchanted Chicken Wing
+    28793, // Epaulette
+    6098, // Eye Patch
+    37003, // Eye-Embroidered Veil
+    5903, // Ferumbras' Hat
+    31738, // Final Judgement
+    39544, // Firefighting Axe
+    5895, // Fish Fin
+    5885, // Flask of Warrior's Sweat
+    32631, // Ghost Claw
+    5910, // Green Piece of Cloth
+    5925, // Hardened Bone
+    5921, // Heaven Blossom
+    5922, // Holy Orchid
+    5902, // Honeycomb
+    6097, // Hook
+    5892, // Huge Chunk of Crude Iron
+    30168, // Ice Shield
+    5880, // Iron Ore
+    3374, // Legion Helmet
+    5876, // Lizard Leather
+    5881, // Lizard Scale
+    12555, // Ludicrous Piece of Cloth
+    12556, // Luminous Piece of Cloth
+    12599, // Mage's Cap
+    5904, // Magic Sulphur
+    5014, // Mandrake
+    5878, // Minotaur Leather
+    5804, // Nose Ring
+    14023, // Obujos' Shell
+    12554, // Obvious Piece of Cloth
+    12551, // Ominous Piece of Cloth
+    6126, // Peg Leg
+    5893, // Perfect Behemoth Fang
+    48515, // Petrified Leaf
+    5889, // Piece of Draconian Steel
+    5888, // Piece of Hell Steel
+    5887, // Piece of Royal Steel
+    12787, // Plague Bell
+    12786, // Plague Mask
+    30169, // Pomegranate
+    25088, // Porcelain Mask
+    39545, // Portable Flame
+    5948, // Red Dragon Leather
+    5882, // Red Dragon Scale
+    5911, // Red Piece of Cloth
+    6101, // Ron the Ripper's Sabre
+    50066, // Rotrender Claw
+    50065, // Rotrender Scalp
+    50051, // Rotrender's Sceptre
+    50052, // Rotrender's Sceptre
+    51657, // Sand-Filled Horn
+    51656, // Scallop Shell
+    31737, // Shadow Cowl
+    7290, // Shard
+    12601, // Slime Mould
+    5875, // Sniper Gloves
+    35595, // Soap
+    5809, // Soul Stone
+    5879, // Spider Silk
+    32630, // Spooky Hood
+    5886, // Spool of Yarn
+    6107, // Staff (Simon)
+    48514, // Strange Inedible Fruit
+    28792, // Sturdy Book
+    37002, // Tagralt-Inlaid Scabbard
+    6100, // The Lethal Lissy's Shirt
+    3403, // Tribal Mask
+    5899, // Turtle Shell
+    5905, // Vampire Dust
+    12553, // Voluminous Piece of Cloth
+    3002, // Voodoo Doll
+    5909, // White Piece of Cloth
+    5897, // Wolf Paw
+    5914, // Yellow Piece of Cloth
+    11447, // Battle Stone
+    16131, // Blazing Bone
+    9633, // Bloody Pincers
+    11702, // Brimstone Fangs
+    11703, // Brimstone Shell
+    11452, // Broken Shamanic Staff
+    10302, // Compass
+    14079, // Crawler Head Plating
+    23507, // Crystallized Anger
+    9638, // Cultish Mask
+    9639, // Cultish Robe
+    9657, // Cyclops Toe
+    17458, // Damselfly Wing
+    14012, // Deepling Warts
+    5954, // Demon Horn
+    9647, // Demonic Skeletal Hand
+    11658, // Draken Sulphur
+    18994, // Elven Hoof
+    11464, // Elven Scouting Glass
+    9635, // Elvish Talisman
+    23508, // Energy Vein
+    25694, // Fairy Wings
+    9636, // Fiery Heart
+    11466, // Flask of Embalming Fluid
+    20199, // Frazzle Skin
+    9661, // Frosty Heart
+    22007, // Gloom Wolf Fur
+    40529, // Gold-Brocaded Cloth
+    20205, // Goosebump Leather
+    5877, // Green Dragon Leather
+    5920, // Green Dragon Scale
+    10304, // Hellspawn Tail
+    9691, // Lion's Mane
+    25702, // Little Bowl of Myrrh
+    11489, // Mantassin Tail
+    10298, // Metal Spike
+    21202, // Mooh'tah Shell
+    21200, // Moohtant Horn
+    9660, // Mystical Hourglass
+    22189, // Ogre Nose Ring
+    10196, // Orc Tooth
+    21975, // Peacock Feather Fan
+    10420, // Petrified Scream
+    9663, // Piece of Dead Brain
+    9641, // Piece of Scarab Shell
+    17823, // Piece of Swampling Wood
+    11484, // Pile of Grave Earth
+    9640, // Poisonous Slime
+    9650, // Polar Bear Paw
+    11444, // Protective Charm
+    28567, // Quill
+    11492, // Rope Belt
+    18993, // Rorc Feather
+    21801, // Seacrest Hair
+    20200, // Silencer Claws
+    21194, // Slime Heart
+    9694, // Snake Skin
+    22730, // Some Grimeleech Wings
+    10309, // Strand of Medusa Hair
+    9686, // Swamp Grass
+    10281, // Tarantula Egg
+    10307, // Thick Fur
+    9685, // Vampire Teeth
+    22728, // Vexclaw Talon
+    9654, // War Crystal
+    10405, // Warmaster's Wristguards
+    14081, // Waspoid Wing
+    22053, // Wereboar Hooves
+    10295, // Winter Wolf Fur
+    9665, // Wyrm Scale
+    9644, // Wyvern Talisman
+    3349, // Crossbow
+    10387, // Zaoan Legs
+    3575, // Wood Cape
+    8063, // Paladin Armor
+    3097, // Dwarven Ring
+    3051, // Energy Ring
+    23529, // Ring of Blue Plasma
+    22866, // Rift Bow
+    23542, // Collar of Blue Plasma
+    5801, // Jewelled Backpack
+    9302, // Sacred Tree Amulet
+    3081, // Stone Skin Amulet
+    7443, // Bullseye Potion
+    23543, // Collar of Green Plasma
+    815, // Glacier Amulet
+    3048, // Might Ring
+    817, // Magma Amulet
+    10323, // Guardian Boots
+    10385, // Zaoan Helmet
+    31579, // Embrace of Nature
+    27455, // Bow of Destruction
+    25977, // Sun Catcher
+    16110, // Prismatic Armor
+    39149, // Alicorn Headguard
+    39159, // Naga Crossbow
+    28493, // Bone Fiddle
+    9659, // Half-Eaten Brain
+    3364, // Golden Legs
+    7402, // Dragon Slayer
+    10439, // Zaoan Robe
+    21168, // Alloy Legs
+    43734, // Golden Sun Coin
+    825, // Lightning Robe
+    52705, // Necromantic Core
+    52720, // Cluster of Crystallized Death
+    21171, // Metal Bat
+    17829, // Buckle
+    21164, // Glooth Cape
+    52707, // Giant Tusk
+    52718, // Deadly Fangs
+    43856, // Bloated Maggot
+    43846, // Decayed Finger Bone
+    52633, // Night Harpy Feathers
+    52706, // Toe Nails
+    43850, // Dark Obsidian Splinter
+    43848, // Worm Sponge
+    43852, // Darklight Basalt Chunk
+    43849, // Rotten Roots
+    33982, // Crawler's Essence
+    39394, // Cry-Stal
+    43858, // Basalt Crumbs
+    52719, // Crystallized Death
+    8045, // Hibiscus Dress
+    39382, // Prehemoth Horns
+    52664, // Stag Parchment
+    39387, // Headpecker Beak
+    39392, // Gorerilla Mane
+    39393, // Gorerilla Tail
+    48252, // Brigadeiro
+    50056, // Brinebrute Claw
+    39389, // Ripptor Claw
+    39395, // Mercurial Wing
+    39378, // Sabretooth Fur
+    39383, // Prehemoth Claw
+    50059, // Gorger Antlers
+    39375, // Sulphider Shell
+    39379, // Emerald Tortoise Shell
+    34141, // Mould Heart
+    36807, // Human Teeth
+    21169, // Metal Spats
+    52662, // Silver Poniard
+    48255, // Lime Tart
+    39384, // Stalking Seeds
+    33934, // Telescope Eye
+    39388, // Headpecker Feather
+    48509, // Resinous Fish Fin
+    39391, // Ripptor Scales
+    33938, // Roots
+    36771, // Lavaworm Jaws
+    44745, // Mega Dragon Heart
+    36780, // Blemished Spawn Tail
+    52663, // Cuirass Plate
+    36789, // Afflicted Strider Head
+    36777, // Eyeless Devourer Tongue
+    36785, // Lavafungus Head
+    48508, // Amber Souvenir
+    44740, // Strange Substance
+    36778, // Blemished Spawn Head
+    9688, // Bundle of Cursed Straw
+    36770, // Lavaworm Spikes
+    36776, // Eyeless Devourer Legs
+    36769, // Lavaworm Spike Roots
+    36774, // Streaked Devourer Legs
+    10413, // Zaogun Flag
+    36972, // Old Girtablilu Carapace
+    36779, // Blemished Spawn Abdomen
+    40582, // Crab Man Claws
+    36971, // Girtablilu Warrior Carapace
+    36790, // Afflicted Strider Worms
+    9637, // Hellhound Slobber
+    36772, // Streaked Devourer Eyes
+    51419, // Paper Plane
+    36775, // Eyeless Devourer Maw
+    36773, // Streaked Devourer Maw
+    36786, // Lavafungus Ring
+    39406, // Coral Branch
+    39407, // Flotsam
+    31440, // Manticore Ear
+    17859, // Spiky Club
+    34160, // Lion Crest
+    21193, // Metal Jaw
+    21201, // Execowtioner Mask
+    11672, // Tail of Corruption
+    31439, // Manticore Tail
+    17856, // Basalt Fetish
+    10444, // Dragon Priest's Wandtip
+    21199, // Giant Pacifier
+    18925, // Lancet
+    10456, // Sandcrawler Shell
+    16160, // Crystalline Sword
+    37110, // Exalted Core
+    37109, // Sliver
+    16163, // Crystal Crossbow
+    7388, // Vile Axe
+    8061, // Skullcracker Armor
+    8050, // Crystalline Armor
+    43732, // Silver Moon Coin
+    7428, // Bonebreaker
+    21174, // Mino Lance
+    50058, // Broodrider Saddle
+    39386, // Mantosaurus Jaw
+    39380, // Undertaker Fangs
+    820, // Lightning Boots
+    50057, // Sineater Wing
+    39381, // Nighthunter Wing
+    39376, // Sulphur Powder
+    51482, // Bloodshot Giant Eye
+    22087, // Wereboar Loincloth
+    51473, // Blood Amulet
+    31443, // Fafnar Symbol
+    51486, // Spiked Gorget
+    44744, // Molten Dragon Essence
+    27592, // Deepworm Spikes
+    51420, // Paper Boat
+    10313, // Winged Tail
+    51478, // Bone Rattle
+    40585, // Harpy Feathers
+    44749, // Wardragon Tooth
+    3509, // Inkwell
+    10449, // Ghastly Dragon Head
+    44746, // Dragolisk Eye
+    40587, // Rhindeer Antlers
+    28823, // Falcon Crest
+    40586, // Carnivostrich Feather
+    44739, // Encrypted Notes
+    36822, // Scorpion Charm
+    36820, // Bashmu Fang
+    40584, // Boar Man Hoof
+    27600, // Cave Devourer Maw
+    51428, // Pressed Flower
+    44741, // Staff Piece
+    27599, // Cave Devourer Eyes
+    10415, // High Guard Flag
+    16139, // Humongous Chunk
+    16140, // Hideous Chunk
+    3346, // Ripper Lance
+    35571, // Small Treasure Chest
+    3373, // Strange Helmet
+    27595, // Tunnel Tyrant Head
+    43730, // Weretiger Tooth
+    44738, // Bulltaur Armor Scrap
+    40583, // Liodile Fang
+    16138, // Crystalline Spikes
+    14044, // Deepling Claw
+    11659, // Draken Wristbands
+    9662, // Mutated Bat Ear
+    11671, // Eye of Corruption
+    21196, // Necromantic Rust
+    14041, // Deepling Ridge
+    27601, // Cave Devourer Legs
+    11660, // Broken Draken Mail
+    39413, // Naga Archer Scales
+    14078, // Spitter Nose
+    31441, // Lamassu Hoof
+    16135, // Vein of Ore
+    10410, // Cursed Shoulder Spikes
+    21197, // Slimy Leaf Tentacle
+    7381, // Mammoth Whopper
+    28822, // Damaged Armor Plates
+    14008, // Spellsinger's Seal
+    31331, // Empty Honey Glass
+    31558, // Red Goanna Scale
+    24384, // Ancient Belt Buckle
+    36805, // Carnisylvan Finger
+    23521, // Crystal Bone
+    14010, // Deepling Guard Belt Buckle
+    39410, // Hydrophytes
+    35596, // Mouldy Powder
+    22184, // Shamanic Talisman
+    22056, // Werebear Skull
+    31560, // Goanna Meat
+    34162, // Lion Cloak Patch
+    22057, // Werebear Fur
+    24385, // Cracked Alabaster Vase
+    17850, // Holy Ash
+    17831, // Bone Fetish
+    10276, // Elder Bonelord Tentacle
+    9668, // Mutated Rat Tail
+    12313, // Stampor Talons
+    18927, // Vampire's Cape Chain
+    10414, // Zaogun Shoulderplates
+    17853, // Lost Bracers
+    14225, // Dung Ball
+    14076, // Swarmer Antenna
+    11661, // Broken Slicer
+    11456, // Dirty Turban
+    11514, // Colourful Feather
+    10418, // Broken Halberd
+    14011, // Deepling Breaktime Snack
+    14017, // Deepling Scales
+    10455, // Lancer Beetle Shell
+    17854, // Mad Froth
+    18924, // Tooth File
+    18995, // Venison
+    18926, // Horoscope
+    9055, // Glob of Tar
+    10301, // Centipede Leg
+    17463, // Damselfly Eye
+    10407, // Shaggy Tail
+    3337, // Bone Club
+    49894, // Demonic Matter
+    14247, // Ornate Crossbow
+    3342, // War Axe
+    25699, // Wooden Spellbook
+    21165, // Rubber Cap
+    7427, // Chaos Mace
+    829, // Glacier Mask
+    828, // Lightning Headband
+    3322, // Dragon Hammer
+    51479, // Spiked Bracers
+    22729, // Pair of Hellflayer Horns
+    28566, // Silken Bookmark
+    11454, // Luminous Orb
+    25701, // Single Human Eye
+    51472, // Chain Leash
+    20203, // Trapped Bad Dream Monster
+    3234, // Cookbook
+    27602, // Chasm Spawn Head
+    3429, // Black Shield
+    49908, // Mummified Demon Finger
+    27596, // Tunnel Tyrant Shell
+    11673, // Scale of Corruption
+    27593, // Deepworm Spike Roots
+    51426, // Sealing Wax
+    51485, // Bone Fibula
+    16130, // Magma Clump
+    43729, // Werecrocodile Tongue
+    24938, // Dragon Tongue
+    44748, // Wardragon Claw
+    44737, // Bulltaur Hoof
+    27594, // Deepworm Jaws
+    10310, // Shiny Stone
+    7425, // Taurus Mace
+    20207, // Pool of Chitinous Glue
+    10316, // Unholy Bone
+    39409, // Two-Headed Turtle Heads
+    23511, // Curious Matter
+    23510, // Odd Organ
+    36821, // Bashmu Tongue
+    3421, // Dark Shield
+    16133, // Pulverized Ore
+    39411, // Naga Armring
+    39408, // Small Tropical Fish
+    10317, // Werewolf Fur
+    13842, // Ice Flower
+    31438, // Sphinx Tiara
+    36823, // Bashmu Feather
+    21103, // Glooth Injection Tube
+    39401, // Makara Fin
+    23518, // Spark Sphere
+    33944, // Werehyaena Talisman
+    39414, // Naga Warrior Scales
+    39402, // Makara Tongue
+    14080, // Waspoid Claw
+    23503, // Sparkion Tail
+    14013, // Deeptags
+    17826, // Lost Basher's Spike
+    9631, // Scarab Pincers
+    3275, // Double Axe
+    31561, // Goanna Claw
+    25696, // Colourful Snail Shell
+    35574, // Shark Fins
+    22191, // Skull Fetish
+    27603, // Chasm Spawn Abdomen
+    44440, // Yapunac Dagger
+    31559, // Blue Goanna Scale
+    17851, // Broken Throwing Axe
+    36806, // Carnisylvan Bark
+    44438, // Broken Mitmah Necklace
+    9632, // Ancient Stone
+    9667, // Boggy Dreads
+    25695, // Dandelion Seeds
+    25742, // Fig Leaf
+    27463, // Werefox Tail
+    17830, // Bonecarving Knife
+    9656, // Broken Gladiator Shield
+    22055, // Werebadger Skull
+    10320, // Book of Necromantic Rituals
+    25697, // Green Bandage
+    22188, // Ogre Ear Stud
+    22054, // Wereboar Tusks
+    17857, // Basalt Figurine
+    22051, // Werebadger Claws
+    10404, // Bone Shoulderplate
+    24380, // Bone Toothpick
+    17818, // Cheesy Figurine
+    35588, // Grappling Hook
+    3307, // Scimitar
+    25693, // Shimmering Beetles
+    11487, // Quara Tentacle
+    40528, // Ritual Tooth
+    10416, // High Guard Shoulderplates
+    10305, // Lump of Earth
+    21195, // Poisoned Fang
+    27604, // Chasm Spawn Tail
+    40527, // Rotten Feather
+    10278, // Stone Wing
+    25691, // Wild Flowers
+    17847, // Wimp Tooth Chain
+    3557, // Plate Legs
+    10411, // Widow's Mandibles
+    27462, // Fox Paw
+    11471, // Kongra's Shoulderpad
+    10321, // Mammoth Tusk
+    9643, // Thorn
+    3413, // Battle Shield
+    11512, // Small Flask of Eyedrops
+    11465, // Elven Astral Observer
+    9649, // Gauze Bandage
+    3330, // Heavy Machete
+    10454, // Terramite Legs
+    9652, // Witch Broom
+    11511, // Banana Sash
+    17817, // Cheese Cutter
+    11482, // Piece of Warrior Armor
+    10303, // Dark Rosary
+    17819, // Earflap
+    17855, // Red Hair Dye
+    17824, // Swampling Club
+    17809, // Bola
+    19110, // Dowser
+    10291, // Rotten Piece of Cloth
+    19111, // Fir Cone
+    3292, // Combat Knife
+    3291, // Knife
+    6558, // Flask of Demonic Blood
+    22186, // Raw Meat
+    7383, // Relic Sword
+    10384, // Zaoan Armor
+    8074, // Spellbook of Mind Control
+    3333, // Crystal Mace
+    7386, // Mercenary Sword
+    10438, // Spellweaver's Robe
+    824, // Glacier Robe
+    826, // Magma Coat
+    811, // Terra Mantle
+    3320, // Fire Axe
+    22086, // Badger Boots
+    8043, // Focus Cape
+    7436, // Angelic Axe
+    22085, // Fur Armor
+    3371, // Knight Legs
+    10386, // Zaoan Shoes
+    7413, // Titan Axe
+    7387, // Diamond Sceptre
+    7454, // Glorious Axe
+    21175, // Mino Shield
+    819, // Glacier Shoes
+    818, // Magma Boots
+    827, // Magma Monocle
+    813, // Terra Boots
+    830, // Terra Hood
+    5479, // Cat's Paw
+    3415, // Guardian Shield
+    12683, // Heavy Trident
+    3318, // Knight Axe
+    51480, // Blood Hood
+    21180, // Glooth Axe
+    21179, // Glooth Blade
+    21178, // Glooth Club
+    48511, // Resin Parasite
+    51422, // Star Ink
+    51476, // Pot of Orcish Warpaint
+    3306, // Golden Sickle
+    48510, // Demon Root
+    51484, // Heart Amphora
+    32698, // Ensouled Essence
+    51475, // Ritual Bone Knife
+    51477, // Orcish Toothbrush
+    20198, // Frazzle Tongue
+    51474, // Piece of Frozen Night
+    31678, // Cobra Crest
+    28569, // Book Page
+    7449, // Crystal Sword
+    10282, // Hydra Head
+    20201, // Silencer Resonating Chamber
+    44743, // Nimmersatt's Seal
+    20204, // Bowl of Terror Sweat
+    3301, // Broadsword
+    11491, // Quara Bone
+    17812, // Ratana
+    11450, // Small Notebook
+    44747, // Dragolisk Poison Gland
+    20202, // Dead Weight
+    10312, // Scythe Leg
+    11490, // Quara Pincers
+    3269, // Halberd
+    44736, // Bulltaur Horn
+    39412, // Naga Earring
+    27597, // Diremaw Brainpan
+    28570, // Glowing Rune
+    20206, // Hemp Rope
+    3316, // Orcish Axe
+    11488, // Quara Eye
+    51427, // Torn Page
+    11449, // Blood Preservation
+    23504, // Sparkion Legs
+    23515, // Dangerous Proto Matter
+    23523, // Energy Ball
+    23516, // Instable Proto Matter
+    33945, // Ivory Carving
+    23514, // Volatile Proto Matter
+    23502, // Sparkion Claw
+    23505, // Sparkion Stings
+    43731, // Werepanther Claw
+    27598, // Diremaw Legs
+    23519, // Frozen Lightning
+    21974, // Golden Lotus Brooch
+    23520, // Plasmatic Lightning
+    23506, // Plasma Pearls
+    10397, // Weaver's Wandtip
+    31442, // Lamassu Horn
+    11510, // Scroll of Heroic Deeds
+    33943, // Werehyaena Nose
+    10277, // Bony Tail
+    21204, // Cowbell
+    30005, // Dream Essence Egg
+    35573, // Pirat's Tail
+    14083, // Compound Eye
+    21182, // Glob of Glooth
+    35572, // Pirate Coin
+    11457, // Dragon's Tail
+    10408, // Spiked Iron Ball
+    27606, // Stonerefiner's Skull
+    10315, // Sulphurous Stone
+    11477, // Orcish Gear
+    10308, // Mutated Flesh
+    10293, // Striped Fur
+    27369, // Half-Digested Stones
+    11443, // Girlish Hair Decoration
+    9054, // Glob of Acid Slime
+    23533, // Ring of Red Plasma
+    50150, // Ring of Orange Plasma
+    23531, // Ring of Green Plasma
+    23544, // Collar of Red Plasma
+    50152, // Collar of Orange Plasma
+    10311 // Sabretooth
+  ]
+}
